@@ -39,8 +39,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourname/algo-playground"
-Repository = "https://github.com/yourname/algo-playground"
+Homepage = "https://github.com/ibrahemassa/algo-playground"
+Repository = "https://github.com/ibrahemassa/algo-playground"
 
 [project.scripts]
 algo-playground = "algo_playground.cli:main"
