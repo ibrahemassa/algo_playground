@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "algo-playground"
-version = "0.1.1"
+version = "0.1.2"
 description = "Interactive terminal playground for classic algorithms (sorting, searching, graphs)"
 readme = "README.md"
 authors = [
@@ -39,8 +39,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/ibrahemassa/algo-playground"
-Repository = "https://github.com/ibrahemassa/algo-playground"
+Homepage = "https://github.com/ibrahemassa/algo_playground"
+Repository = "https://github.com/ibrahemassa/algo_playground"
 
 [project.scripts]
 algo-playground = "algo_playground.cli:main"
